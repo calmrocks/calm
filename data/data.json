@@ -1,0 +1,138 @@
+[
+  {
+    "ID": "1",
+    "Title": "Morning Walk",
+    "Description": "A brisk morning walk to start the day.",
+    "Instructions": "Walk for 30 minutes at a brisk pace after waking up.",
+    "Benefits": "Increases energy, improves mood, and enhances metabolism.",
+    "Category": "Physical"
+  },
+  {
+    "ID": "2",
+    "Title": "Mindful Eating",
+    "Description": "Practice being fully present while eating.",
+    "Instructions": "Eat without distractions, savor each bite, notice flavors and textures.",
+    "Benefits": "Better digestion, more enjoyable meals, less overeating.",
+    "Category": "Nutrition, Mindfulness"
+  },
+  {
+    "ID": "3",
+    "Title": "Daily Gratitude Journaling",
+    "Description": "Write down things you are grateful for every day.",
+    "Instructions": "Each morning or night, write three things you're grateful for.",
+    "Benefits": "Increases positivity, reduces stress, improves mental health.",
+    "Category": "Mindfulness"
+  },
+  {
+    "ID": "4",
+    "Title": "Regular Stretching Routine",
+    "Description": "Incorporate a stretching routine into your daily schedule.",
+    "Instructions": "Spend 10-15 minutes each day doing full-body stretches.",
+    "Benefits": "Increases flexibility, reduces muscle tension, improves posture.",
+    "Category": "Physical"
+  },
+  {
+    "ID": "5",
+    "Title": "Digital Detox",
+    "Description": "Periodically disconnect from digital devices.",
+    "Instructions": "Allocate specific times to turn off digital devices daily.",
+    "Benefits": "Reduces stress, improves sleep, enhances real-life interactions.",
+    "Category": "Mindfulness, Mental Health"
+  },
+  {
+    "ID": "6",
+    "Title": "Hydration Habit",
+    "Description": "Maintain adequate hydration throughout the day.",
+    "Instructions": "Drink at least 8 glasses of water daily.",
+    "Benefits": "Improves skin, aids digestion, boosts energy levels.",
+    "Category": "Nutrition, Physical Health"
+  },
+  {
+    "ID": "7",
+    "Title": "Yoga Practice",
+    "Description": "Engage in regular yoga sessions for balance and flexibility.",
+    "Instructions": "Practice yoga for 30 minutes, three times a week.",
+    "Benefits": "Enhances flexibility, reduces stress, improves mental clarity.",
+    "Category": "Physical, Mindfulness"
+  },
+  {
+    "ID": "8",
+    "Title": "Daily Meditation",
+    "Description": "Practice mindfulness through daily meditation.",
+    "Instructions": "Meditate for 10-15 minutes each day, focusing on your breath.",
+    "Benefits": "Reduces anxiety, enhances focus, and promotes emotional health.",
+    "Category": "Mindfulness, Mental Health"
+  },
+  {
+    "ID": "9",
+    "Title": "Nature Walks",
+    "Description": "Regular walks in a natural setting.",
+    "Instructions": "Take a 30-minute walk in a park or nature trail twice a week.",
+    "Benefits": "Improves mood, reduces feelings of stress and anger, enhances physical well-being.",
+    "Category": "Physical, Mental Health"
+  },
+  {
+    "ID": "10",
+    "Title": "Creative Hobbies",
+    "Description": "Engage in creative activities like painting, writing, or crafting.",
+    "Instructions": "Dedicate time each week to a creative hobby of your choice.",
+    "Benefits": "Stimulates the mind, fosters relaxation, and boosts self-esteem.",
+    "Category": "Mental Health, Personal Development"
+  },
+  {
+    "ID": "11",
+    "Title": "Social Connections",
+    "Description": "Maintain and nurture personal relationships.",
+    "Instructions": "Regularly schedule time to meet or talk with friends and family.",
+    "Benefits": "Improves mental health, provides emotional support, enhances life satisfaction.",
+    "Category": "Social, Mental Health"
+  },
+  {
+    "ID": "12",
+    "Title": "Healthy Eating",
+    "Description": "Incorporate a balanced diet into your daily life.",
+    "Instructions": "Focus on whole foods, minimize processed foods, and maintain balanced portions.",
+    "Benefits": "Boosts overall health, improves energy levels, supports weight management.",
+    "Category": "Nutrition, Physical Health"
+  },
+  {
+    "ID": "13",
+    "Title": "Sleep Routine",
+    "Description": "Establish a regular sleep schedule to improve rest.",
+    "Instructions": "Go to bed and wake up at the same time daily, including weekends.",
+    "Benefits": "Enhances sleep quality, improves mood, and increases daily alertness.",
+    "Category": "Physical Health, Mental Health"
+  },
+  {
+    "ID": "14",
+    "Title": "Skill Learning",
+    "Description": "Dedicate time to learn a new skill or hobby.",
+    "Instructions": "Set aside regular time each week to focus on learning something new.",
+    "Benefits": "Boosts cognitive function, enhances personal growth, and increases self-esteem.",
+    "Category": "Personal Development, Mental Health"
+  },
+  {
+    "ID": "15",
+    "Title": "Regular Exercise",
+    "Description": "Incorporate a routine of physical exercise.",
+    "Instructions": "Engage in at least 30 minutes of moderate exercise most days of the week.",
+    "Benefits": "Improves physical fitness, mental well-being, and reduces the risk of chronic diseases.",
+    "Category": "Physical"
+  },
+  {
+    "ID": "16",
+    "Title": "Time Management",
+    "Description": "Practice effective time management techniques.",
+    "Instructions": "Plan your day, prioritize tasks, and set achievable goals.",
+    "Benefits": "Increases productivity, reduces stress, and creates more leisure time.",
+    "Category": "Personal Development"
+  },
+  {
+    "ID": "17",
+    "Title": "Volunteering",
+    "Description": "Participate in community service or volunteering activities.",
+    "Instructions": "Find local organizations or causes and dedicate a few hours each month to volunteer.",
+    "Benefits": "Promotes a sense of community, enhances empathy, and provides a sense of accomplishment.",
+    "Category": "Social, Personal Development"
+  }
+]
